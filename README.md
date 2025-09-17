@@ -59,6 +59,6 @@ console.log(!true);
 
 // String Operations
 let fname = "Silvanus Elisha";
-let lname = "Rafiq";
+let lname = "Shahzad";
 console.log(fname + " " + lname);
 console.log(`Hello my name is ${fname + " " + lname} and I am a student.`);
